@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ara</h1>
+<h1 align="center">Hi 👋, I'm Aravindhan</h1>
 <h3 align="center">Java Developer | MERN Stack | Building AI Agents | Chatbots | Freelancing</h3>
 
 <div align="center">
