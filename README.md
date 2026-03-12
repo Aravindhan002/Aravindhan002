@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepakkumar</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Building AI Agents | Chatbots | Freelancing</h3>
+<h1 align="center">Hi 👋, I'm Ara</h1>
+<h3 align="center">Java Developer | MERN Stack | Building AI Agents | Chatbots | Freelancing</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Hero Animation" width="100%" height="320px" />
