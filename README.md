@@ -64,7 +64,7 @@
   <tr>
     <td>
       <p>
-        👋 Hi there! I'm <strong>Deepakkumar</strong>, a passionate B.Tech AI & Data Science student from Tamil Nadu, India.
+        👋 Hi there! I'm <strong>Aravindhan</strong>, a passionate B.Tech AI & Data Science student from Tamil Nadu, India.
       </p>
       <p>
         🔭 I’m currently focused on building AI agents, full-stack web apps, and smart chatbot systems using OpenAI, MERN stack, and automation tools like n8n.
@@ -76,7 +76,7 @@
         🚀 I believe in Project-Based Learning (PBL) and keep sharpening my skills through internships, open source, and side projects.
       </p>
       <p>
-        📫 How to reach me: <a href="mailto:kumardeepak59422@gmail.com">kumardeepak59422@gmail.com</a>
+        📫 How to reach me: <a href="mailto:artaravind2004@gmail.com">artaravind2004.com</a>
       </p>
     </td>
     <td width="40%"  style="border: none;">
