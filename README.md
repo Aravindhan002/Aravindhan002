@@ -76,7 +76,7 @@
         🚀 I believe in Project-Based Learning (PBL) and keep sharpening my skills through internships, open source, and side projects.
       </p>
       <p>
-        📫 How to reach me: <a href="mailto:artaravind2004@gmail.com">artaravind2004.com</a>
+        📫 How to reach me: <a href="mailto:artaravind2004@gmail.com">artaravind2004@gmail.com</a>
       </p>
     </td>
     <td width="40%"  style="border: none;">
@@ -91,7 +91,7 @@
 
 ### 🧩 Projects
 
-- 🚀 **Explore my work:** Check out all my projects on my [GitHub repository](https://github.com/deepak-05dktopG?tab=repositories)  
+- 🚀 **Explore my work:** Check out all my projects on my [GitHub repository](https://github.com/Aravindhan002?tab=repositories)  
 - 🌟 **Discover more:** Visit my [Projects Page](https://www.deepakdigitalcraft.tech/) for detailed insights and demos
 
 > 💡 *Stay tuned for exciting new projects coming soon!*
