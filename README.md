@@ -92,7 +92,7 @@
 ### 🧩 Projects
 
 - 🚀 **Explore my work:** Check out all my projects on my [GitHub repository](https://github.com/Aravindhan002?tab=repositories)  
-- 🌟 **Discover more:** Visit my [Projects Page](https://www.deepakdigitalcraft.tech/) for detailed insights and demos
+- 🌟 **Discover more:** Visit my [Projects Page](https://github.com/Aravindhan002?tab=projects) for detailed insights and demos
 
 > 💡 *Stay tuned for exciting new projects coming soon!*
 
@@ -100,22 +100,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-
-### 📈 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepak-05dktopg&show_icons=true&locale=en" alt="deepak-05dktopg" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-05dktopg" alt="deepak-05dktopg" />
-    </td>
-  </tr>
-</table>
-
-
-
 
 
 <div align="center">
